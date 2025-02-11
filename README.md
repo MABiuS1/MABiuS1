@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js , Nest.js**
+- 🌱 I’m currently learning **Cyber security**
 - 💬 Ask me about **Website , Mobile**
 - 📫 How to reach me **klavivach1@gmail.com**
 - ⚡ Fun fact **I think I am funny**
