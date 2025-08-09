@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Klavivach Prajong</h1>
 <h3 align="center">A passionate fullstack developer from Thailand</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mabius1&label=Profile%20views&color=0e75b6&style=flat" alt="mabius1" /> </p>
 
