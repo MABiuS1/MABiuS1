@@ -10,6 +10,7 @@
 - 💬 Ask me about **Website , Mobile**
 - 📫 How to reach me **klavivach1@gmail.com**
 - ⚡ Fun fact **I think I am funny**
+- 🌐 Portfolio: **<a href="https://mabius-portfolio.vercel.app/" target="_blank" rel="noreferrer">mabius-portfolio.vercel.app</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
